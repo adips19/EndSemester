@@ -1,0 +1,4 @@
+                                               GlusterFS
+
+Gluster is also known as GlusterFS (Gluster File System), is an open source distributed file system which can scale to 
+building block fashion 
